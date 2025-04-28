@@ -5,7 +5,6 @@ import Home from "./pages/Home";
 import Blog from "./pages/Blog";
 import Products from "./pages/Products";
 import Appointments from "./pages/Appointments";
-import "./App.css";
 
 function App() {
   return (
